@@ -1,6 +1,8 @@
 # Knorr-pyrazole-synthesis-ReactChemEng
-Data and code associated with the paper "Discovery of unexpectedly complex reaction pathways for the Knorr pyrazole synthesis via transient flow" 
+Data and code associated with the paper "Discovery of unexpectedly complex reaction pathways for the Knorr pyrazole synthesis via transient flow"
+
 React. Chem. Eng., 2023,8, 41-46
+
 https://doi.org/10.1039/D2RE00271J
 
 MATLAB code was influenced by work from the following links:
