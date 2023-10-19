@@ -1,6 +1,8 @@
 # Knorr-pyrazole-synthesis-ReactChemEng
 Data and code associated with the paper "Discovery of unexpectedly complex reaction pathways for the Knorr pyrazole synthesis via transient flow"
+
 React. Chem. Eng., 2023, 8, 41-46
+
 https://doi.org/10.1039/D2RE00271J
 
 
@@ -9,7 +11,9 @@ https://doi.org/10.1039/D2RE00271J
 
 # Visualisation of all reaction data in MATLAB and python
 **Reaction data.zip** contains all reaction data used to produce MATLAB surface plots including different excess experiments, reactant stoichiometry ramps, multivariate ramps, and steady state data points.
+
 **Interactive scatter plot DM.ipynb** allows visualisation of the 3D reaction space as an interactive scatter plot on all reaction data.
+
 **FinalModelFittingDM.m**, **FinalModelFittingDE.m**, and **SurfaceComparisonPlot.m** are MATLAB code for the final fitted microkinetic model response surface generation, and comparison between the surfaces for the two diketone substrates.
 
 MATLAB code was influenced by work from the following links:
